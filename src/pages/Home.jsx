@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import HeroSection from '../components/HeroSection';
 import MasonryGrid from '../components/MasonryGrid';
 import Player from '../components/Player';
+import Trending from '../components/Trending';
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
       
       <Navbar />
       <HeroSection />
+      <Trending />
       
       <main className="flex-grow w-full py-8 
 bg-gradient-to-b 
