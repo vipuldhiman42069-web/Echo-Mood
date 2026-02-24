@@ -12,6 +12,7 @@ const Trending = () => {
       <h2 className="text-2xl font-semibold mb-8 text-center">
         Trending Sounds
       </h2>
+      <div id="trending">
 
       <div className="flex flex-col md:flex-row gap-6 justify-center items-stretch">
         {trendingSounds.map((sound) => (
@@ -47,6 +48,7 @@ const Trending = () => {
             </div>
           </div>
         ))}
+      </div>
       </div>
     </section>
   );

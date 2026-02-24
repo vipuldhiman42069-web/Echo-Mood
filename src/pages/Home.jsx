@@ -13,9 +13,9 @@ function Home() {
       
       <Navbar />
       <HeroSection />
-      <div id="Trending">
+      
       <Trending />
-      </div>
+     
       
       <main className="flex-grow w-full py-8 
 bg-gradient-to-b 
