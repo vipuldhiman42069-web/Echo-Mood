@@ -25,11 +25,13 @@ to-rose-950
 dark:via-fuchsia-950/50 
 dark:to-[#1a0b1f]">
         <div className="max-w-[1400px] mx-auto">
-        <h2 className="text-3xl font-extrabold mb-2 px-6 lg:px-20 
-  bg-gradient-to-r from-fuchsia-500 via-pink-500 to-rose-500 
+        <div id="discoverMoodsBox">
+  <h2 className="text-3xl font-extrabold mb-2 px-6 lg:px-20
+  bg-gradient-to-r from-fuchsia-500 via-pink-500 to-rose-500
   bg-clip-text text-transparent tracking-tight">
     Discover Moods
   </h2>
+</div>
   <p className="text-slate-500 dark:text-slate-300 text-sm sm:text-base 
   mb-6 px-6 lg:px-20 font-medium">
     Curated soundscapes for focus, sleep, and relaxation.
