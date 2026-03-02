@@ -1,192 +1,202 @@
 [
   {
-    "id": 0,
-    "title": "Ambient Escape",
-    "category": "Relaxation",
-    "categoryColor": "#9CA3AF",
+    "id": "S001",
+    "title": "Rain Ambience",
+    "category": "Sleep",
+    "categoryColor": "#6B7280",
     "duration": "30 min",
     "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "A calming blend of soft atmospheric textures designed to help you unwind and reset."
+    "description": "Deep Relaxation"
   },
   {
-    "id": 1,
-    "title": "Forest Rain",
-    "category": "Nature",
-    "categoryColor": "#3B82F6",
-    "duration": "45 min",
-    "imageUrl": "https://images.pexels.com/photos/975771/pexels-photo-975771.jpeg",
-    "aspect": "tall",
-    "description": "Gentle rainfall over a dense forest canopy with distant thunder and rustling leaves."
-  },
-  {
-    "id": 2,
-    "title": "Lo-fi Focus",
-    "category": "Study",
-    "categoryColor": "#F97316",
-    "duration": "∞ Loop",
-    "imageUrl": "data:image/jpeg;base64,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",
-    "aspect": "square",
-    "description": "Smooth lo-fi beats layered with subtle vinyl crackle to boost deep focus sessions."
-  },
-  {
-    "id": 3,
-    "title": "Deep Sleep",
-    "category": "Sleep",
-    "categoryColor": "#6366F1",
-    "duration": "8 hrs",
-    "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=800&auto=format&fit=crop",
-    "aspect": "wide",
-    "description": "Low-frequency ambient tones crafted to guide you into restful, uninterrupted sleep."
-  },
-  {
-    "id": 4,
-    "title": "Morning Brew",
-    "category": "Morning",
-    "categoryColor": "#F43F5E",
-    "duration": "25 min",
-    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=800&auto=format&fit=crop",
-    "aspect": "tallWide",
-    "description": "Gentle acoustic guitar and warm café ambience to ease you into the day."
-  },
-  {
-    "id": 5,
-    "title": "Ocean Breeze",
-    "category": "Relax",
-    "categoryColor": "#06B6D4",
-    "duration": "40 min",
-    "imageUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Soft rolling waves and coastal winds for a peaceful seaside escape."
-  },
-  {
-    "id": 6,
-    "title": "Night Walk",
-    "category": "Night",
-    "categoryColor": "#8B5CF6",
-    "duration": "35 min",
-    "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=800&auto=format&fit=crop",
-    "aspect": "portrait",
-    "description": "Crickets, distant city hum, and soft wind create a serene nighttime atmosphere."
-  },
-  {
-    "id": 7,
-    "title": "Creative Flow",
-    "category": "Focus",
-    "categoryColor": "#EC4899",
-    "duration": "50 min",
-    "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=800&auto=format&fit=crop",
-    "aspect": "video",
-    "description": "Minimal instrumental layers crafted to unlock creativity and sustained concentration."
-  },
-  {
-    "id": 8,
-    "title": "Gentle Piano",
-    "category": "Instrumental",
-    "categoryColor": "#6B7280",
-    "duration": "32 min",
-    "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Soft melodic piano pieces designed for relaxation and quiet reflection."
-  },
-  {
-    "id": 9,
-    "title": "Rainy Cafe",
-    "category": "Ambient",
-    "categoryColor": "#60A5FA",
-    "duration": "42 min",
-    "imageUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Light rain outside a cozy café paired with subtle background chatter."
-  },
-  {
-    "id": 10,
+    "id": "S002",
     "title": "Ocean Waves",
-    "category": "Nature",
-    "categoryColor": "#34D399",
-    "duration": "60 min",
+    "category": "Calm",
+    "categoryColor": "#6B7280",
+    "duration": "33 min",
     "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Steady rhythmic ocean waves washing onto a quiet sandy shore."
+    "description": "Calm Focus"
   },
   {
-    "id": 11,
+    "id": "S003",
     "title": "Forest Birds",
-    "category": "Nature",
-    "categoryColor": "#22C55E",
-    "duration": "38 min",
+    "category": "Focus",
+    "categoryColor": "#6B7280",
+    "duration": "25 min",
     "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Morning forest ambience filled with chirping birds and gentle wind."
+    "description": "Morning Energy"
   },
   {
-    "id": 12,
-    "title": "Lo-Fi Beats",
-    "category": "Chill",
-    "categoryColor": "#A78BFA",
-    "duration": "55 min",
-    "imageUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=800&auto=format&fit=crop",
+    "id": "S004",
+    "title": "Fireplace Crackle",
+    "category": "Cozy",
+    "categoryColor": "#6B7280",
+    "duration": "28 min",
+    "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Chill instrumental beats layered with mellow bass and relaxed rhythms."
+    "description": "Cozy Night"
   },
   {
-    "id": 13,
+    "id": "S005",
     "title": "Thunderstorm",
-    "category": "Nature",
-    "categoryColor": "#64748B",
-    "duration": "48 min",
+    "category": "Sleep",
+    "categoryColor": "#6B7280",
+    "duration": "35 min",
     "imageUrl": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Powerful thunderclaps and steady rain for deep relaxation and focus."
+    "description": "Sleep Therapy"
   },
   {
-    "id": 14,
+    "id": "S006",
     "title": "White Noise",
-    "category": "Focus",
-    "categoryColor": "#9CA3AF",
-    "duration": "3 hrs",
+    "category": "Sleep",
+    "categoryColor": "#6B7280",
+    "duration": "60 min",
     "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Consistent white noise to block distractions and enhance productivity."
+    "description": "Sleep Aid"
   },
   {
-    "id": 15,
-    "title": "Temple Bells",
+    "id": "S007",
+    "title": "LoFi Beats",
+    "category": "Study",
+    "categoryColor": "#6B7280",
+    "duration": "40 min",
+    "imageUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Focus Music"
+  },
+  {
+    "id": "S008",
+    "title": "Cafe Ambience",
+    "category": "Work",
+    "categoryColor": "#6B7280",
+    "duration": "30 min",
+    "imageUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Productivity Mode"
+  },
+  {
+    "id": "S009",
+    "title": "Zen Garden",
     "category": "Meditation",
-    "categoryColor": "#F59E0B",
-    "duration": "28 min",
+    "categoryColor": "#6B7280",
+    "duration": "32 min",
     "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Soft temple bells echoing gently for mindful meditation sessions."
+    "description": "Meditation Calm"
   },
   {
-    "id": 16,
-    "title": "Night Crickets",
-    "category": "Nature",
-    "categoryColor": "#4B5563",
-    "duration": "37 min",
+    "id": "S010",
+    "title": "Rain on Tent",
+    "category": "Sleep",
+    "categoryColor": "#6B7280",
+    "duration": "38 min",
     "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Subtle cricket sounds under a calm starlit sky."
+    "description": "Deep Sleep"
   },
   {
-    "id": 17,
-    "title": "Deep Focus",
-    "category": "Instrumental",
-    "categoryColor": "#818CF8",
-    "duration": "52 min",
-    "imageUrl": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Minimal instrumental layers crafted for long deep-work sessions."
-  },
-  {
-    "id": 18,
-    "title": "Soft Wind",
-    "category": "Ambient",
-    "categoryColor": "#38BDF8",
+    "id": "S011",
+    "title": "Mountain Stream",
+    "category": "Relax",
+    "categoryColor": "#6B7280",
     "duration": "33 min",
     "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=800&auto=format&fit=crop",
     "aspect": "square",
-    "description": "Gentle wind sweeping through open fields and quiet landscapes."
+    "description": "Nature Relax"
+  },
+  {
+    "id": "S012",
+    "title": "Wind Breeze",
+    "category": "Calm",
+    "categoryColor": "#6B7280",
+    "duration": "27 min",
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Evening Calm"
+  },
+  {
+    "id": "S013",
+    "title": "Piano Calm",
+    "category": "Relax",
+    "categoryColor": "#6B7280",
+    "duration": "37 min",
+    "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Soft Relaxation"
+  },
+  {
+    "id": "S014",
+    "title": "Snowfall Silence",
+    "category": "Silent",
+    "categoryColor": "#6B7280",
+    "duration": "35 min",
+    "imageUrl": "https://images.unsplash.com/photo-1483664852095-d6cc6870702d?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Winter Calm"
+  },
+  {
+    "id": "S015",
+    "title": "Temple Bells",
+    "category": "Meditation",
+    "categoryColor": "#6B7280",
+    "duration": "23 min",
+    "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Spiritual Focus"
+  },
+  {
+    "id": "S016",
+    "title": "Night Crickets",
+    "category": "Sleep",
+    "categoryColor": "#6B7280",
+    "duration": "35 min",
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Night Sleep"
+  },
+  {
+    "id": "S017",
+    "title": "Soft Synth Pad",
+    "category": "Chill",
+    "categoryColor": "#6B7280",
+    "duration": "38 min",
+    "imageUrl": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Ambient Chill"
+  },
+  {
+    "id": "S018",
+    "title": "Heartbeat Pulse",
+    "category": "Therapy",
+    "categoryColor": "#6B7280",
+    "duration": "28 min",
+    "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Therapy Sleep"
+  },
+  {
+    "id": "S019",
+    "title": "River Flow",
+    "category": "Meditation",
+    "categoryColor": "#6B7280",
+    "duration": "33 min",
+    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Nature Meditation"
+  },
+  {
+    "id": "S020",
+    "title": "Space Drone",
+    "category": "Focus",
+    "categoryColor": "#6B7280",
+    "duration": "40 min",
+    "imageUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=800&auto=format&fit=crop",
+    "aspect": "square",
+    "description": "Deep Focus"
   }
 ]

@@ -9,7 +9,7 @@ import Similar from "../components/Similar";
 
 const NowPlaying = () => {
   const { id } = useParams();
-  const sound = sounds.find((s) => s.id === parseInt(id));
+  const sound = sounds.find((s) => s.id === id);
 
   if (!sound)
     return (
