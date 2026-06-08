@@ -48,63 +48,156 @@ export default function CartTestPage() {
     console.log("ATC Click");
   };
 
-  return (
+ return (
+  <div
+    style={{
+      display: "flex",
+      minHeight: "100vh",
+      background: "#f4f4f4",
+      fontFamily: "Arial, sans-serif"
+    }}
+  >
     <div
       style={{
+        flex: 1,
         display: "flex",
-        minHeight: "100vh"
+        justifyContent: "center",
+        alignItems: "flex-start",
+        paddingTop: "80px"
       }}
     >
       <div
         style={{
-          flex: 1,
-          padding: "40px"
+          width: "350px",
+          background: "#fff",
+          borderRadius: "12px",
+          boxShadow: "0 2px 10px rgba(0,0,0,0.1)",
+          overflow: "hidden"
         }}
       >
-        <h1>Adobe Target Test Page</h1>
-
         <div
           style={{
-            border: "1px solid #ddd",
-            padding: "20px",
-            width: "300px"
+            height: "220px",
+            background: "#ddd",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            fontSize: "18px"
           }}
         >
-          <h2>Coffee Product</h2>
+          Product Image
+        </div>
 
-          <button onClick={addToCart}>
+        <div style={{ padding: "20px" }}>
+          <h2 style={{ marginTop: 0 }}>
+            Premium Coffee Pods
+          </h2>
+
+          <p style={{ color: "#666" }}>
+            Sample product used for Adobe Target
+            cart drawer testing.
+          </p>
+
+          <div
+            style={{
+              fontSize: "24px",
+              fontWeight: "bold",
+              marginBottom: "20px"
+            }}
+          >
+            ₹499
+          </div>
+
+          <button
+            onClick={addToCart}
+            style={{
+              width: "100%",
+              padding: "14px",
+              border: "none",
+              borderRadius: "8px",
+              background: "#2563eb",
+              color: "#fff",
+              fontSize: "16px",
+              cursor: "pointer"
+            }}
+          >
             Add To Cart
           </button>
         </div>
       </div>
+    </div>
 
-      {cartDrawerOpen && (
-        <div
-          id="sparq-atc-drawer"
+    {cartDrawerOpen && (
+      <div
+        id="sparq-atc-drawer"
+        style={{
+          width: "420px",
+          background: "#fff",
+          borderLeft: "1px solid #ddd",
+          padding: "24px",
+          boxShadow: "-3px 0 10px rgba(0,0,0,0.1)"
+        }}
+      >
+        <h2
           style={{
-            width: "400px",
-            borderLeft: "1px solid #ddd",
-            padding: "20px"
+            marginTop: 0,
+            marginBottom: "20px"
           }}
         >
-          <h2>Cart Drawer</h2>
+          Cart Drawer
+        </h2>
 
-          <div
-            className="atcDrawerCommon__separation_section"
-            style={{
-              height: "20px",
-              background: "#f5f5f5",
-              marginBottom: "20px"
-            }}
-          >
-            Separation Section
-          </div>
-
-          <div>
-            Existing Drawer Content
-          </div>
+        <div
+          className="atcDrawerCommon__separation_section"
+          style={{
+            height: "50px",
+            background: "#f5f5f5",
+            border: "2px dashed #bbb",
+            borderRadius: "8px",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            marginBottom: "20px",
+            fontWeight: "bold",
+            color: "#666"
+          }}
+        >
+          Adobe Target Injects Here
         </div>
-      )}
-    </div>
-  );
+
+        <div
+          style={{
+            padding: "16px",
+            background: "#fafafa",
+            borderRadius: "8px",
+            marginBottom: "12px"
+          }}
+        >
+          Existing Drawer Content
+        </div>
+
+        <div
+          style={{
+            padding: "16px",
+            background: "#fafafa",
+            borderRadius: "8px",
+            marginBottom: "12px"
+          }}
+        >
+          Recommendations
+        </div>
+
+        <div
+          style={{
+            padding: "16px",
+            background: "#fafafa",
+            borderRadius: "8px"
+          }}
+        >
+          Cart Summary
+        </div>
+      </div>
+    )}
+  </div>
+);
 }
