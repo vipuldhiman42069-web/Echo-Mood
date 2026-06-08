@@ -1,202 +1,702 @@
 [
   {
-    "id": "S001",
-    "title": "Rain Ambience",
-    "category": "Sleep",
+    "id": "B001",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
     "categoryColor": "#6B7280",
-    "duration": "30 min",
-    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=800&auto=format&fit=crop",
+    "duration": "200 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Deep Relaxation"
+    "description": "Productivity & Habits"
   },
   {
-    "id": "S002",
-    "title": "Ocean Waves",
-    "category": "Calm",
+    "id": "B002",
+    "title": "The Alchemist",
+    "category": "Fiction",
     "categoryColor": "#6B7280",
-    "duration": "33 min",
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop",
+    "duration": "203 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Calm Focus"
+    "description": "Spiritual Journey"
   },
   {
-    "id": "S003",
-    "title": "Forest Birds",
-    "category": "Focus",
+    "id": "B003",
+    "title": "1984",
+    "category": "Fiction",
     "categoryColor": "#6B7280",
-    "duration": "25 min",
-    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=800&auto=format&fit=crop",
+    "duration": "206 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
     "aspect": "square",
-    "description": "Morning Energy"
+    "description": "Dystopian Politics"
   },
   {
-    "id": "S004",
-    "title": "Fireplace Crackle",
-    "category": "Cozy",
+    "id": "B004",
+    "title": "Sapiens",
+    "category": "Non-Fiction",
     "categoryColor": "#6B7280",
-    "duration": "28 min",
-    "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=800&auto=format&fit=crop",
+    "duration": "209 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Cozy Night"
+    "description": "Human History"
   },
   {
-    "id": "S005",
-    "title": "Thunderstorm",
-    "category": "Sleep",
+    "id": "B005",
+    "title": "Harry Potter",
+    "category": "Fantasy",
     "categoryColor": "#6B7280",
-    "duration": "35 min",
-    "imageUrl": "https://images.unsplash.com/photo-1500674425229-f692875b0ab7?q=80&w=800&auto=format&fit=crop",
+    "duration": "212 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Sleep Therapy"
+    "description": "Magic Adventure"
   },
   {
-    "id": "S006",
-    "title": "White Noise",
-    "category": "Sleep",
+    "id": "B006",
+    "title": "Deep Work",
+    "category": "Productivity",
     "categoryColor": "#6B7280",
-    "duration": "60 min",
-    "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=800&auto=format&fit=crop",
+    "duration": "215 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
     "aspect": "square",
-    "description": "Sleep Aid"
+    "description": "Focus Mastery"
   },
   {
-    "id": "S007",
-    "title": "LoFi Beats",
-    "category": "Study",
+    "id": "B007",
+    "title": "Clean Code",
+    "category": "Education",
     "categoryColor": "#6B7280",
-    "duration": "40 min",
-    "imageUrl": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=800&auto=format&fit=crop",
+    "duration": "218 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Focus Music"
+    "description": "Programming Excellence"
   },
   {
-    "id": "S008",
-    "title": "Cafe Ambience",
-    "category": "Work",
+    "id": "B008",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
     "categoryColor": "#6B7280",
-    "duration": "30 min",
-    "imageUrl": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=800&auto=format&fit=crop",
+    "duration": "221 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Productivity Mode"
+    "description": "Financial Wisdom"
   },
   {
-    "id": "S009",
-    "title": "Zen Garden",
-    "category": "Meditation",
+    "id": "B009",
+    "title": "The Hobbit",
+    "category": "Fantasy",
     "categoryColor": "#6B7280",
-    "duration": "32 min",
-    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=800&auto=format&fit=crop",
+    "duration": "224 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
     "aspect": "square",
-    "description": "Meditation Calm"
+    "description": "Epic Adventure"
   },
   {
-    "id": "S010",
-    "title": "Rain on Tent",
-    "category": "Sleep",
+    "id": "B010",
+    "title": "Ikigai",
+    "category": "Lifestyle",
     "categoryColor": "#6B7280",
-    "duration": "38 min",
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
+    "duration": "227 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Deep Sleep"
+    "description": "Purpose & Balance"
   },
   {
-    "id": "S011",
-    "title": "Mountain Stream",
-    "category": "Relax",
+    "id": "B011",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
     "categoryColor": "#6B7280",
-    "duration": "33 min",
-    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=800&auto=format&fit=crop",
+    "duration": "230 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Nature Relax"
+    "description": "Habit Building"
   },
   {
-    "id": "S012",
-    "title": "Wind Breeze",
-    "category": "Calm",
+    "id": "B012",
+    "title": "The Alchemist",
+    "category": "Fiction",
     "categoryColor": "#6B7280",
-    "duration": "27 min",
-    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop",
+    "duration": "233 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
     "aspect": "square",
-    "description": "Evening Calm"
+    "description": "Philosophical Fiction"
   },
   {
-    "id": "S013",
-    "title": "Piano Calm",
-    "category": "Relax",
+    "id": "B013",
+    "title": "1984",
+    "category": "Dystopian",
     "categoryColor": "#6B7280",
-    "duration": "37 min",
-    "imageUrl": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?q=80&w=800&auto=format&fit=crop",
+    "duration": "236 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Soft Relaxation"
+    "description": "Dark Political Future"
   },
   {
-    "id": "S014",
-    "title": "Snowfall Silence",
-    "category": "Silent",
+    "id": "B014",
+    "title": "Sapiens",
+    "category": "History",
     "categoryColor": "#6B7280",
-    "duration": "35 min",
-    "imageUrl": "https://images.unsplash.com/photo-1483664852095-d6cc6870702d?q=80&w=800&auto=format&fit=crop",
+    "duration": "239 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
     "aspect": "square",
-    "description": "Winter Calm"
+    "description": "Evolution of Humanity"
   },
   {
-    "id": "S015",
-    "title": "Temple Bells",
-    "category": "Meditation",
+    "id": "B015",
+    "title": "Harry Potter",
+    "category": "Fantasy",
     "categoryColor": "#6B7280",
-    "duration": "23 min",
-    "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?q=80&w=800&auto=format&fit=crop",
+    "duration": "242 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
     "aspect": "square",
-    "description": "Spiritual Focus"
+    "description": "Wizarding World"
   },
   {
-    "id": "S016",
-    "title": "Night Crickets",
-    "category": "Sleep",
+    "id": "B016",
+    "title": "Deep Work",
+    "category": "Productivity",
     "categoryColor": "#6B7280",
-    "duration": "35 min",
-    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Night Sleep"
-  },
-  {
-    "id": "S017",
-    "title": "Soft Synth Pad",
-    "category": "Chill",
-    "categoryColor": "#6B7280",
-    "duration": "38 min",
-    "imageUrl": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Ambient Chill"
-  },
-  {
-    "id": "S018",
-    "title": "Heartbeat Pulse",
-    "category": "Therapy",
-    "categoryColor": "#6B7280",
-    "duration": "28 min",
-    "imageUrl": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Therapy Sleep"
-  },
-  {
-    "id": "S019",
-    "title": "River Flow",
-    "category": "Meditation",
-    "categoryColor": "#6B7280",
-    "duration": "33 min",
-    "imageUrl": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=800&auto=format&fit=crop",
-    "aspect": "square",
-    "description": "Nature Meditation"
-  },
-  {
-    "id": "S020",
-    "title": "Space Drone",
-    "category": "Focus",
-    "categoryColor": "#6B7280",
-    "duration": "40 min",
-    "imageUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=800&auto=format&fit=crop",
+    "duration": "245 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
     "aspect": "square",
     "description": "Deep Focus"
+  },
+  {
+    "id": "B017",
+    "title": "Clean Code",
+    "category": "Programming",
+    "categoryColor": "#6B7280",
+    "duration": "248 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Clean Architecture"
+  },
+  {
+    "id": "B018",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
+    "categoryColor": "#6B7280",
+    "duration": "251 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Money Mindset"
+  },
+  {
+    "id": "B019",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "254 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Adventure Fantasy"
+  },
+  {
+    "id": "B020",
+    "title": "Ikigai",
+    "category": "Lifestyle",
+    "categoryColor": "#6B7280",
+    "duration": "257 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Life Purpose"
+  },
+   {
+    "id": "B021",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
+    "categoryColor": "#6B7280",
+    "duration": "260 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Habit Growth"
+  },
+  {
+    "id": "B022",
+    "title": "The Alchemist",
+    "category": "Fiction",
+    "categoryColor": "#6B7280",
+    "duration": "263 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Spiritual Fiction"
+  },
+  {
+    "id": "B023",
+    "title": "1984",
+    "category": "Dystopian",
+    "categoryColor": "#6B7280",
+    "duration": "266 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Political Thriller"
+  },
+  {
+    "id": "B024",
+    "title": "Sapiens",
+    "category": "History",
+    "categoryColor": "#6B7280",
+    "duration": "269 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Civilization Journey"
+  },
+  {
+    "id": "B025",
+    "title": "Harry Potter",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "272 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Fantasy Magic"
+  },
+  {
+    "id": "B026",
+    "title": "Deep Work",
+    "category": "Productivity",
+    "categoryColor": "#6B7280",
+    "duration": "275 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Work Efficiency"
+  },
+  {
+    "id": "B027",
+    "title": "Clean Code",
+    "category": "Programming",
+    "categoryColor": "#6B7280",
+    "duration": "278 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Code Quality"
+  },
+  {
+    "id": "B028",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
+    "categoryColor": "#6B7280",
+    "duration": "281 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Wealth Building"
+  },
+  {
+    "id": "B029",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "284 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Epic Quest"
+  },
+  {
+    "id": "B030",
+    "title": "Ikigai",
+    "category": "Lifestyle",
+    "categoryColor": "#6B7280",
+    "duration": "287 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Balanced Living"
+  },
+  {
+    "id": "B031",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
+    "categoryColor": "#6B7280",
+    "duration": "290 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Daily Improvement"
+  },
+  {
+    "id": "B032",
+    "title": "The Alchemist",
+    "category": "Fiction",
+    "categoryColor": "#6B7280",
+    "duration": "293 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Inspirational Tale"
+  },
+  {
+    "id": "B033",
+    "title": "1984",
+    "category": "Dystopian",
+    "categoryColor": "#6B7280",
+    "duration": "296 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Surveillance State"
+  },
+  {
+    "id": "B034",
+    "title": "Sapiens",
+    "category": "History",
+    "categoryColor": "#6B7280",
+    "duration": "299 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Human Evolution"
+  },
+  {
+    "id": "B035",
+    "title": "Harry Potter",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "302 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Wizard Adventures"
+  },
+  {
+    "id": "B036",
+    "title": "Deep Work",
+    "category": "Productivity",
+    "categoryColor": "#6B7280",
+    "duration": "305 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Concentration Skills"
+  },
+  {
+    "id": "B037",
+    "title": "Clean Code",
+    "category": "Programming",
+    "categoryColor": "#6B7280",
+    "duration": "308 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Software Craftsmanship"
+  },
+  {
+    "id": "B038",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
+    "categoryColor": "#6B7280",
+    "duration": "311 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Financial Freedom"
+  },
+  {
+    "id": "B039",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "314 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Fantasy Expedition"
+  },
+  {
+    "id": "B040",
+    "title": "Ikigai",
+    "category": "Lifestyle",
+    "categoryColor": "#6B7280",
+    "duration": "317 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Mindful Living"
+  },
+  {
+    "id": "B041",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
+    "categoryColor": "#6B7280",
+    "duration": "320 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Positive Habits"
+  },
+  {
+    "id": "B042",
+    "title": "The Alchemist",
+    "category": "Fiction",
+    "categoryColor": "#6B7280",
+    "duration": "323 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Dream Pursuit"
+  },
+  {
+    "id": "B043",
+    "title": "1984",
+    "category": "Dystopian",
+    "categoryColor": "#6B7280",
+    "duration": "326 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Authoritarian World"
+  },
+  {
+    "id": "B044",
+    "title": "Sapiens",
+    "category": "History",
+    "categoryColor": "#6B7280",
+    "duration": "329 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Origins of Society"
+  },
+  {
+    "id": "B045",
+    "title": "Harry Potter",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "332 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Magical World"
+  },
+  {
+    "id": "B046",
+    "title": "Deep Work",
+    "category": "Productivity",
+    "categoryColor": "#6B7280",
+    "duration": "335 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Focused Thinking"
+  },
+  {
+    "id": "B047",
+    "title": "Clean Code",
+    "category": "Programming",
+    "categoryColor": "#6B7280",
+    "duration": "338 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Readable Code"
+  },
+  {
+    "id": "B048",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
+    "categoryColor": "#6B7280",
+    "duration": "341 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Money Management"
+  },
+  {
+    "id": "B049",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "344 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Legendary Adventure"
+  },
+  {
+    "id": "B050",
+    "title": "Ikigai",
+    "category": "Lifestyle",
+    "categoryColor": "#6B7280",
+    "duration": "347 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Purposeful Living"
+  },
+  {
+    "id": "B051",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
+    "categoryColor": "#6B7280",
+    "duration": "350 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Habit Transformation"
+  },
+  {
+    "id": "B052",
+    "title": "The Alchemist",
+    "category": "Fiction",
+    "categoryColor": "#6B7280",
+    "duration": "353 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Life Philosophy"
+  },
+  {
+    "id": "B053",
+    "title": "1984",
+    "category": "Dystopian",
+    "categoryColor": "#6B7280",
+    "duration": "356 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Totalitarian Fiction"
+  },
+  {
+    "id": "B054",
+    "title": "Sapiens",
+    "category": "History",
+    "categoryColor": "#6B7280",
+    "duration": "359 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Cultural Evolution"
+  },
+  {
+    "id": "B055",
+    "title": "Harry Potter",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "362 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Fantasy Saga"
+  },
+  {
+    "id": "B056",
+    "title": "Deep Work",
+    "category": "Productivity",
+    "categoryColor": "#6B7280",
+    "duration": "365 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Peak Productivity"
+  },
+  {
+    "id": "B057",
+    "title": "Clean Code",
+    "category": "Programming",
+    "categoryColor": "#6B7280",
+    "duration": "368 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Developer Best Practices"
+  },
+  {
+    "id": "B058",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
+    "categoryColor": "#6B7280",
+    "duration": "371 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Investment Thinking"
+  },
+  {
+    "id": "B059",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "374 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Middle Earth Adventure"
+  },
+  {
+    "id": "B060",
+    "title": "Ikigai",
+    "category": "Lifestyle",
+    "categoryColor": "#6B7280",
+    "duration": "377 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Joyful Living"
+  },
+  {
+    "id": "B061",
+    "title": "Atomic Habits",
+    "category": "Self-Help",
+    "categoryColor": "#6B7280",
+    "duration": "380 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Self Discipline"
+  },
+  {
+    "id": "B062",
+    "title": "The Alchemist",
+    "category": "Fiction",
+    "categoryColor": "#6B7280",
+    "duration": "383 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Soulful Adventure"
+  },
+  {
+    "id": "B063",
+    "title": "1984",
+    "category": "Dystopian",
+    "categoryColor": "#6B7280",
+    "duration": "386 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Future Control"
+  },
+  {
+    "id": "B064",
+    "title": "Sapiens",
+    "category": "History",
+    "categoryColor": "#6B7280",
+    "duration": "389 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Human Civilization"
+  },
+  {
+    "id": "B065",
+    "title": "Harry Potter",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "392 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Magic School"
+  },
+  {
+    "id": "B066",
+    "title": "Deep Work",
+    "category": "Productivity",
+    "categoryColor": "#6B7280",
+    "duration": "395 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Mental Clarity"
+  },
+  {
+    "id": "B067",
+    "title": "Clean Code",
+    "category": "Programming",
+    "categoryColor": "#6B7280",
+    "duration": "398 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Coding Standards"
+  },
+  {
+    "id": "B068",
+    "title": "Rich Dad Poor Dad",
+    "category": "Finance",
+    "categoryColor": "#6B7280",
+    "duration": "401 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2016/08/old_series_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Passive Income"
+  },
+  {
+    "id": "B069",
+    "title": "The Hobbit",
+    "category": "Fantasy",
+    "categoryColor": "#6B7280",
+    "duration": "404 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2021/03/book_fair_9-1024x683.jpg",
+    "aspect": "square",
+    "description": "Adventure Journey"
+  },
+  {
+    "id": "B070",
+    "title": "Ikigai",
+    "category": "Lifestyle",
+    "categoryColor": "#6B7280",
+    "duration": "407 pages",
+    "imageUrl": "https://freestocks.org/fs/wp-content/uploads/2018/05/pile_of_books-1024x683.jpg",
+    "aspect": "square",
+    "description": "Inner Peace"
   }
 ]
